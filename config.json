@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "revision": 1,
+  "reviewAccessEnabled": true,
+  "ads": {
+    "mode": "test",
+    "interstitial": {
+      "enabled": true,
+      "afterWin": true,
+      "afterLoss": false,
+      "firstLevel": 2,
+      "winsBetweenAds": 1,
+      "lossesBetweenAds": 1,
+      "minimumSeconds": 0,
+      "maximumPerSession": 0
+    }
+  }
+}
