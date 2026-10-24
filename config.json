@@ -3,7 +3,7 @@
   "revision": 1,
   "reviewAccessEnabled": true,
   "ads": {
-    "mode": "live",
+    "mode": "test",
     "interstitial": {
       "enabled": true,
       "afterWin": true,
